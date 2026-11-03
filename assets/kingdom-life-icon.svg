@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Kingdom Life icon">
+  <rect width="96" height="96" rx="28" fill="#fbfaf6"/>
+  <g fill="none" stroke="#455c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5">
+    <path d="M30 75h36"/>
+    <path d="M36 74V43c0-13 6-22 12-22s12 9 12 22v31"/>
+    <path d="M48 15v18M41 22h14"/>
+  </g>
+</svg>
